@@ -1,9 +1,11 @@
 ## Opaa! Falaa comigo..
-Meu nome é Nattan Karrary e sou um programador apaixonado por Python e Django com 2 anos de experiência. Sou originário de Belo Horizonte e comecei minha carreira na área de tecnologia quando iniciei a graduação em Ciencias da Computação.
+Meu nome é Nattan Karrary e sou um programador apaixonado por Python e Django com 2 anos de experiência. Sou originário de Belo Horizonte e comecei minha carreira na área de tecnologia quando iniciei a graduação em Ciências da Computação.
 
 Desde então, tenho trabalhado em vários projetos de desenvolvimento de software usando Python e Django, incluindo sistemas web, sistemas de gerenciamento de banco de dados e sites de e-commerce. Também tenho experiência em trabalhar em equipes de desenvolvimento de software e gosto de colaborar com outros programadores e designers para criar soluções de software inovadoras.
 
-Fora do trabalho, gosto de manter-me atualizado com as últimas tendências e tecnologias em programação, bem como participar de comunidades online e eventos de tecnologia. Também adoro viajar e conhecer novas culturas. Acredito que a tecnologia tem o poder de mudar o mundo e estou sempre em busca de novas oportunidades para usar minhas habilidades e conhecimentos para fazer a diferença.
+Fora do trabalho, gosto de manter-me atualizado com as últimas tendências e tecnologias em programação, bem como participar de comunidades online e eventos de tecnologia. Também adoro praticar esportes, viajar e conhecer novas culturas.
+
+<br>
 <div align="center">  
   <a href="https://instagram.com/karrary" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nattanmiranda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,7 +28,7 @@ Fora do trabalho, gosto de manter-me atualizado com as últimas tendências e te
   
   ##
  
-<div> 
+<div style="display: inline_block" align="center"> 
  
   ![Snake animation](https://github.com/Karrary37/karrary37/blob/output/github-contribution-grid-snake.svg)
  
